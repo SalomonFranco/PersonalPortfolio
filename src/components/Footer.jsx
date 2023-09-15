@@ -56,7 +56,7 @@ const Footer = () => {
           {gitHubInfo.forks} - Give this project a star!
         </span>
         <p>
-          <span>▷</span> Designed and built by Michael Yeates &copy; {currentYear}
+          <span>▷</span> Designed and built by Salomon Francoeates &copy; {currentYear}
         </p>
         <p>All views and work are my own</p>
       </a>

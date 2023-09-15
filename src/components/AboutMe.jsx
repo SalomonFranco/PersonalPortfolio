@@ -67,7 +67,7 @@ const AboutMe = ({ name }) => {
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
                   Today, I find myself knee-deep in an exhilarating chapter of my journey as a degree apprentice at the
-                  tech titan, <span style={{ color: "var(--hl-color)" }}> Amazon</span>. My playground? The captivating
+                  tech titan. My playground? The captivating
                   universe of <span style={{ color: "var(--hl-color)" }}> Alexa</span>.
                 </motion.p>
                 <br />

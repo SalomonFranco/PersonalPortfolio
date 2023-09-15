@@ -79,7 +79,7 @@ const Hero = ({ name }) => {
           transition={{ delay: 1, duration: 1.5, ease: "easeInOut" }}
           style={styles.landingImage}
           src={landingImage}
-          alt="Michael Yeates"
+          alt="Salomon Francoeates"
         />
       </div>
       {/* Displaying social icons */}
