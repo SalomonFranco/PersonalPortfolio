@@ -1,33 +1,33 @@
 [
   {
-    "title": "Routes",
-    "description": "Plan Safe Routes",
+    "title": "Travel App",
+    "description": "Carpe Mundi, is a travel agency app project",
     "image": "/projectImages/bike.png",
     "image2": "/projectImages/cyclingfamily.jpeg",
     "image3": "/projectImages/routes3.png",
-    "body": "So, picture this – me and the gang whipped up this awesome thing during my coding bootcamp. It's like the alpha version, you know? And guess what? I totally owned the whole route thingy!\nThe big idea? Keep those kiddos safe while they're out cycling. Like superhero parents and guardians. 🚴‍♀️💨\nI brought in some Leaflet.js magic and TomTom's cool Routing/Reverse Geolocation APIs. What does that mean? Well, hold tight – we've got this super interactive map that's easy on the eyes. You can basically draw out a route, all fancy, while considering stuff like traffic, bike lanes, and how steep the hills are. It's like plotting an adventure – totally kid-safe and fun!",
-    "technologies": ["Leaflet", "jQuery", "Bootstrap", "HTML", "CSS"],
-    "github": "https://github.com/mdyeates/bike-buddy",
+    "body": "On the app you will be able to tailor your journey to your preferences. Exclude destinations or upgrade your stay to a top-tier hotel. It's all about enjoying a unique experience on your terms. You decide if you want your destination to be a surprise. Two days before your outbound flight, we'll reveal the destination and accommodation via email. No need to plan; the countdown begins! With no expectations, travel to a destination waiting to be discovered. It's that simple! Embrace every second of your trip without worries.",
+    "technologies": [ "HTML", "CSS", "Bootstrap", "Javascript", "React", "Python"],
+    "github": "https://github.com/4GeeksAcademy/europe-fs-pt-11-group-1",
     "deployed": "https://norrinradd8.github.io/bike_buddy/",
     "bgcolor": "var(--hl2-color)",
     "id": "1"
   },
   {
-    "title": "Weather",
-    "description": "Weather Forecast",
+    "title": "Interactive App",
+    "description": "Photography Portfolio",
     "image": "/projectImages/weather.png",
     "image2": "/projectImages/storm.jpeg",
     "image3": "/projectImages/weather3.png",
     "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
-    "body": "Hey there, I whipped up this app with mobiles in mind, so it's all slick and dandy on any screen. The secret sauce? OpenWeatherMap API! It pulls in all the deets you need: city name, date, cute weather icons, temp, humidity, and even wind speed. But hold on, there's more! ☀️\nPeep the 5-day forecast – it's like a crystal ball for weather nerds. And I got your back with the search history thing. Saves your searches so you don't have to type it all out again.\nWait, there's a rad trick too – the dashboard goes dark or light, depending on if it's sunbathing or stargazing time in the city you're checking. Plus, it's like magic – finds where you are and tells you the weather there. No more guessing if it's raining outside!",
+    "body": "Hey there, I whipped up this app with mobiles in mind, so it's all slick and dandy on any screen. The secret sauce? OpenWeatherMap API! It pulls in all the deets you need: city name, date, cute weather icons, temp, humidity, and even wind speed. But hold on, there's more! ☀️\nPeep the 5-day forecast – it's like a crystal ball for weather nerds. And I got your back with the search history thing. Saves your searches so you don't have to type it all out again.\nWait, there's a rad trick too – the dashboard goes dark or light, depending on if it's sunbathing or stargazing time in the city you're checking. Plus, it's like magic – finds where you are and tells you the weather there. No more guessing if it's raining outside! You decide if you want your destination to be a surprise. Two days before your outbound flight, we'll reveal the destination and accommodation via email. No need to plan; the countdown begins!  With no expectations, travel to a destination waiting to be discovered. It's that simple! Embrace every second of your trip without worries.",
     "github": "https://github.com/mdyeates/weather-app",
     "deployed": "https://mdyeates.github.io/weather-app/",
     "bgcolor": "var(--hl-color)",
     "id": "2"
   },
   {
-    "title": "Generator",
-    "description": "Effortless web pages",
+    "title": "Card Generator",
+    "description": "Responsive Random Card Generator",
     "image": "/projectImages/team.png",
     "image2": "/projectImages/teamcelebrating.jpeg",
     "image3": "/projectImages/team3.png",
@@ -39,7 +39,7 @@
     "id": "3"
   },
   {
-    "title": "Quiz",
+    "title": "Business Landing App",
     "description": "Test your knowledge",
     "image": "/projectImages/quiz.png",
     "image2": "/projectImages/javascript.jpeg",

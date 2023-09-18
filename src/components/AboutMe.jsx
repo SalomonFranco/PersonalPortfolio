@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
 import { NavLink } from "react-router-dom";
 import Button from "./Button";
-import aboutMeImg from "../images/aboutme.jpeg";
+import aboutMeImg from "../images/aboutme.jpg";
 
 /**
  * Represents the About Me section.
@@ -54,8 +54,8 @@ const AboutMe = ({ name }) => {
           <div className="personalInfo col-12 col-lg-6">
             <motion.div className="contentContainer" variants={staggerVariants}>
               {/* Display greeting and job title with animation */}
-              <motion.h4 variants={paragraphVariants}>Nice to meet you! 👋🏻</motion.h4>
-              <motion.h5 variants={paragraphVariants}>I'm a Software Engineer at Amazon.</motion.h5>
+              <motion.h4 variants={paragraphVariants}>Pleased to meet you! 👋🏻</motion.h4>
+              <motion.h5 variants={paragraphVariants}>I'm Salomon Franco, a Software Developer.</motion.h5>
 
               {/* Display content description with animation */}
               <motion.div
@@ -66,24 +66,20 @@ const AboutMe = ({ name }) => {
               >
                 {/* Paragraphs with animation */}
                 <motion.p variants={paragraphVariants}>
-                  Today, I find myself knee-deep in an exhilarating chapter of my journey as a degree apprentice at the
-                  tech titan. My playground? The captivating
-                  universe of <span style={{ color: "var(--hl-color)" }}> Alexa</span>.
+                My journey into coding has been driven by a passion for technology and curiosity. From an early age, 
+                I've enjoyed dismantling gadgets to understand them better.
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Here, I don my <span style={{ color: "var(--hl-color)" }}> problem-solving </span>
-                  cape and dive headfirst into real-world challenges, all while relentlessly pursuing a{" "}
-                  <span style={{ color: "var(--hl-color)" }}> Digital and Technology Solutions</span> degree from the
-                  University of Roehampton. So here I am, juggling bits of binary and real-life conundrums, all while
-                  crafting my own success story.
+                Coding isn't just a career; it's my true passion. Crafting elegant solutions to complex problems, 
+                whether designing user-friendly interfaces or optimizing back-end algorithms, brings me immense joy. 
+                I'm constantly learning and exploring new technologies.
                 </motion.p>
                 <br />
                 <motion.p variants={paragraphVariants}>
-                  Life is a kaleidoscope of experiences, far beyond the confines of work. When code isn't my focus, I'm
-                  conquering cycling routes, feeling the wind on spirited runs, and fueling my love for Formula One.
-                  Amid serene moments, I transform into a film aficionado, seeking films that kindle inspiration and
-                  provoke thought.
+                Throughout my career, I've gained practical experience with companies like Revolut and Airbnb, fine-tuning 
+                my skills and commitment to delivering quality efficiently. As I continue, I look forward to embracing new 
+                challenges and making an impact in this ever-evolving field.
                 </motion.p>
               </motion.div>
 

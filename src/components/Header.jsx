@@ -22,11 +22,11 @@ const Header = () => {
         >
           {/* Animated logo image */}
           <motion.img
-            whileHover={{ scale: 1.05 }}
+            whileHover={{ scale: 1.20 }}
             whileTap={{ scale: 0.9 }}
             className="logo"
             src={logo}
-            alt="Salomon Francoeates' Logo"
+            alt="Salomon Franco Logo"
           />
         </motion.div>
       </NavLink>
