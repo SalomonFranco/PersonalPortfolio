@@ -1,22 +1,16 @@
 <a name="readme-top"></a>
 
   <!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
   <!-- PROJECT LOGO -->
 
   <br />
   <div align="center">
-    <a href="https://github.com/mdyeates/my-portfolio">
+    <a href="https://github.com/SalomonFranco/personalPortfolio">
       <img src="src/images/logo.svg" alt="Logo" width="200" height="200">
     </a>
-    <h1 align="center">my website url</h1>
+    <h1 align="center">salo.codes</h1>
     <p align="center">
     <br/>
 Crafting Connections through Code: Explore my journey, projects, and passions in this immersive portfolio powered by React.<br/>
@@ -24,14 +18,14 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
       Built by: Salomon Franco
       <br/>
       <br/>
-      <a href="https://github.com/mdyeates/my-portfolio"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/SalomonFranco/personalPortfolio"><strong>Explore the docs »</strong></a>
       <br/>
       <br/>
       <a href="https://my website url">View Live Website</a>
       ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Report Bug</a>
+      <a href="https://github.com/SalomonFranco/personalPortfolio/issues">Report Bug</a>
       ·
-      <a href="https://github.com/mdyeates/my-portfolio/issues">Request Feature</a>
+      <a href="https://github.com/SalomonFranco/personalPortfolio/issues">Request Feature</a>
     </p>
   </div>
   
@@ -116,7 +110,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/mdyeates/my-portfolio.git
+   git clone https://github.com/SalomonFranco/my-portfolio.git
    ```
 2. Install NPM packages
    ```sh
@@ -141,26 +135,15 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 
 If you have any inquiries, don't hesitate to reach out to me via socials or by sending an email to <a href="mailto:salomonfrancodasilva@gmail.com">salomonfrancodasilva@gmail.com</a>
 
-<a href="https://www.linkedin.com/in/mdyeates/">LinkedIn</a> | <a href="https://github.com/mdyeates/">GitHub</a>
+<a href="https://www.linkedin.com/in/salomon-franco/">LinkedIn</a> | <a href="https://github.com/SalomonFranco">GitHub</a> 
 
-Project Link: [https://github.com/mdyeates/my-portfolio](https://github.com/mdyeates/my-portfolio)
+Project Link: [https://github.com/SalomonFranco/personalPortfolio](https://github.com/SalomonFranco/personalPortfolio)
 
   <p align="right"><a href="#readme-top">back to top</a></p>
   
   <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/mdyeates/my-portfolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/mdyeates/my-portfolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mdyeates/my-portfolio.svg?style=for-the-badge
-[forks-url]: https://github.com/mdyeates/my-portfolio/network/members
-[stars-shield]: https://img.shields.io/github/stars/mdyeates/my-portfolio.svg?style=for-the-badge
-[stars-url]: https://github.com/mdyeates/my-portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mdyeates/my-portfolio.svg?style=for-the-badge
-[issues-url]: https://github.com/mdyeates/my-portfolio/issues
-[license-shield]: https://img.shields.io/github/license/mdyeates/my-portfolio.svg?style=for-the-badge
-[license-url]: https://github.com/mdyeates/my-portfolio/blob/main/LICENSE.md
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/mdyeates
+[linkedin-url]: [https://linkedin.com/in/salomon-franco](https://www.linkedin.com/in/salomon-franco/)
 
   <!-- UPDATE PLACEHOLDER IMAGES HERE -->
 
