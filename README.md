@@ -1,8 +1,5 @@
 <a name="readme-top"></a>
 
-  <!-- PROJECT SHIELDS -->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
   <!-- PROJECT LOGO -->
 
   <br />
