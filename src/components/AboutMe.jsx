@@ -75,12 +75,6 @@ const AboutMe = ({ name }) => {
                 whether designing user-friendly interfaces or optimizing back-end algorithms, brings me immense joy. 
                 I'm constantly learning and exploring new technologies.
                 </motion.p>
-                <br />
-                <motion.p variants={paragraphVariants}>
-                Throughout my career, I've gained practical experience with companies like Revolut and Airbnb, fine-tuning 
-                my skills and commitment to delivering quality efficiently. As I continue, I look forward to embracing new 
-                challenges and making an impact in this ever-evolving field.
-                </motion.p>
               </motion.div>
 
               {/* Button to view the portfolio */}
