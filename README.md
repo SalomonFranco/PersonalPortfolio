@@ -57,7 +57,7 @@ Crafting Connections through Code: Explore my journey, projects, and passions in
   
   ### Photos
   
-[![My React Portfolio Screen Shot][product-screenshot]](https://my.website.url)
+[![My React Portfolio Screen Shot][product-screenshot]](https://my.websit.url)
 
 [![My React Portfolio Screen Shot][product-screenshot2]](https://my.website.url)
 
