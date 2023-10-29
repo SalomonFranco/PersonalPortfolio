@@ -38,19 +38,22 @@ const ProjectDetails = () => {
     <main className="container portfolio">
       {/* Display the page header with project title and description */}
       <PageHeader title={project.title} description={project.description} />
-      <div className="projectDetails">
+      {/* *** Michael: Added container here */}
+      <div className="projectDetails container">
         <div className="row">
           <div className="col-12 col-xl-4 projectImage">
             {/* Display the project image */}
             <Image src={project.image2} alt={project.name} opacity="0.5" />
           </div>
           <div className="col-12 col-xl-8 projectBodyContainer">
-            <div className="tech">
+            {/* *** Michael: quick fix for technology, added row*/}
+            <div className="tech row">
               {/* Display project technologies with animation */}
               {project.technologies.map((technology, i) => (
                 <motion.span
                   key={i}
-                  className="technology"
+                  // *** Michael: quick fix for technology, added col-3 and m-1
+                  className="technology col-3 m-1"
                   initial={{ opacity: 0, x: 20 }}
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ duration: 0.5, delay: i * 0.1, ease: "easeInOut" }}
