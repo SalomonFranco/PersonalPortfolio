@@ -45,7 +45,7 @@ const Footer = () => {
           {gitHubInfo.forks} - Give this project a star!
         </span>
         <p>
-          <span>▷</span> Designed and built by Salomon Franco and Michael Yates &copy; {currentYear}
+          <span>▷</span> Designed and built by Salomon Franco &copy; {currentYear}
         </p>
       </a>
     </footer>
