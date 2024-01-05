@@ -39,7 +39,7 @@ const Footer = () => {
       <SocialIcons />
 
       {/* GitHub repository link */}
-      <a className="footer-link" href="https://github.com/SalomonFranco/my-portfolio">
+      <a className="footer-link" href="https://github.com/SalomonFranco/PersonalPortfolio">
         <span>
           <AiOutlineStar /> {gitHubInfo.stars} <BiGitRepoForked />
           {gitHubInfo.forks} - Give this project a star!
