@@ -55,7 +55,7 @@ const AboutMe = ({ name }) => {
             <motion.div className="contentContainer" variants={staggerVariants}>
               {/* Display greeting and job title with animation */}
               <motion.h4 variants={paragraphVariants}>Pleased to meet you! 👋🏻</motion.h4>
-              <motion.h5 variants={paragraphVariants}>I'm Salomon Franco, a Software Developer.</motion.h5>
+              <motion.h5 variants={paragraphVariants}>I'm Salomon Franco, a Full Stack Developer.</motion.h5>
 
               {/* Display content description with animation */}
               <motion.div

@@ -1,16 +1,29 @@
 [
   {
     "title": "Interactive Portfolio",
-    "description": "Photography Portfolio",
+    "description": "Photography Portfolio, Minimal Design, Easy To Browse, Blog Customizable (Create, Read, Update, Delete) and Dark Mode. ",
     "image": "/projectImages/1.png",
     "image2": "/projectImages/11.png",
     "image3": "/projectImages/11.png",
-    "body": "I made this app for my sister and the focus was on providing a good UI for an easy customization, Minimal Design, Easy To Browse, Blog Customizable (Create, Read, Update, Delete) and Dark Mode.",
-    "technologies": [ "HTML", "CSS", "Bootstrap", "Javascript", "React", "Next.js", "Tailwind.css"],
-    "github": "https://github.com/SalomonFranco/minimalistPhotographerPortfolio",
-    "deployed": "https://yeyafotografia.com/",
+    "body": "I made this app and the focus was on providing a good UI for an easy customization.",
+    "technologies": [ "HTML", "CSS", "Bootstrap", "Javascript", "React", "Node.js", "Tailwind.css"],
+    "github": "https://github.com/SalomonFranco/minimalistPhotographyPortfolio",
+    "deployed": "https://yeyafotografia.xyz/",
     "bgcolor": "var(--hl2-color)",
     "id": "1"
+  },
+  {
+    "title": "Travel Agency App (Carpe Mundi)",
+    "description": "Is a travel agency app project that was developed as the final project to graduate from the bootcamp",
+    "image": "/projectImages/2.png",
+    "image2": "/projectImages/22.png",
+    "image3": "/projectImages/22.png",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Javascript", "React", "Python", "Figma", "SQLA", "JWT", "Postman"],
+    "body": "On the app you will be able to tailor your journey to your preferences. Exclude destinations or upgrade your stay to a top-tier hotel. It's all about enjoying a unique experience on your terms. You decide if you want your destination to be a surprise. Two days before your outbound flight, we'll reveal the destination and accommodation via email. No need to plan; the countdown begins! With no expectations, travel to a destination waiting to be discovered. It's that simple! Embrace every second of your trip without worries. This is a final project made for 4geeks Academy Click on View Site to see a live presentation of the app.",
+    "github": "https://github.com/4GeeksAcademy/europe-fs-pt-11-group-1",
+    "deployed": "https://youtu.be/96A5468YY5Y?t=3062",
+    "bgcolor": "var(--hl-color)",
+    "id": "2"
   },
   {
     "title": "Travel Agency App",
@@ -23,24 +36,11 @@
     "github": "https://github.com/4GeeksAcademy/europe-fs-pt-11-group-1",
     "deployed": "https://youtu.be/96A5468YY5Y?t=3062",
     "bgcolor": "var(--hl-color)",
-    "id": "2"
-  },
-  {
-    "title": "Star Wars Blog",
-    "description": "Data Bank of Star Wars Information",
-    "image": "/projectImages/3.png",
-    "image2": "/projectImages/33.png",
-    "image3": "/projectImages/33.png",
-    "technologies": ["HTML", "CSS","Bootstrap","JavaScript", "React", "Postman"],
-    "body": "Star Wars Blog made possible with the SWAPI API as a project for 4geeks Academy, here you will be able to see all the specifications of your favorites Star Wars Characters, Spaceships and Planets.",
-    "github": "https://github.com/SalomonFranco/starWarsBlogWithAPI",
-    "deployed": "https://github.com/SalomonFranco/starWarsBlogWithAPI",
-    "bgcolor": "#6c4bf4",
     "id": "3"
   },
   {
-    "title": "Landing App",
-    "description": "Creating Ties, Student Travel and Service Learning Programs",
+    "title": "Landing Page App (Creating Ties)",
+    "description": "Student Travel and Service Learning Programs Focused in ",
     "image": "/projectImages/4.png",
     "image2": "/projectImages/44.png",
     "image3": "/projectImages/44.png",
@@ -50,5 +50,31 @@
     "deployed": "https://creatingties.netlify.app/",
     "bgcolor": "#f85781",
     "id": "4"
+  },
+  {
+    "title": "Star Wars Blog",
+    "description": "Data Bank of Star Wars Information",
+    "image": "/projectImages/3.png",
+    "image2": "/projectImages/33.png",
+    "image3": "/projectImages/33.png",
+    "technologies": ["HTML", "CSS","Bootstrap","JavaScript", "React", "Postman"],
+    "body": "Star Wars Blog made possible with the SWAPI API as a side project for 4geeks Academy, here you will be able to see all the specifications of your favorites Star Wars Characters, Spaceships and Planets.",
+    "github": "https://github.com/SalomonFranco/starWarsBlogWithAPI",
+    "deployed": "https://github.com/SalomonFranco/starWarsBlogWithAPI",
+    "bgcolor": "#6c4bf4",
+    "id": "5"
+  },
+  {
+    "title": "Travel Agency App",
+    "description": "Carpe Mundi, is a travel agency app project",
+    "image": "/projectImages/2.png",
+    "image2": "/projectImages/22.png",
+    "image3": "/projectImages/22.png",
+    "technologies": ["HTML", "CSS", "Bootstrap", "Javascript", "React", "Python", "Figma", "SQLA", "JWT", "Postman"],
+    "body": "On the app you will be able to tailor your journey to your preferences. Exclude destinations or upgrade your stay to a top-tier hotel. It's all about enjoying a unique experience on your terms. You decide if you want your destination to be a surprise. Two days before your outbound flight, we'll reveal the destination and accommodation via email. No need to plan; the countdown begins! With no expectations, travel to a destination waiting to be discovered. It's that simple! Embrace every second of your trip without worries. This is a final project made for 4geeks Academy Click on View Site to see a live presentation of the app.",
+    "github": "https://github.com/4GeeksAcademy/europe-fs-pt-11-group-1",
+    "deployed": "https://youtu.be/96A5468YY5Y?t=3062",
+    "bgcolor": "var(--hl-color)",
+    "id": "6"
   }
 ]
